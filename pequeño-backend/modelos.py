@@ -11,7 +11,6 @@ class Genero:
     def __init__(self, nombre):
         self.nombre = nombre
 
-    
 class Catalogo:
 
     def __init__(self, nombre):
